@@ -12,3 +12,4 @@
 /Users/nozimjonqozievgmail.com/Desktop/c#/week 1/lesson3/obj/Debug/net9.0/lesson3.pdb
 /Users/nozimjonqozievgmail.com/Desktop/c#/week 1/lesson3/obj/Debug/net9.0/lesson3.genruntimeconfig.cache
 /Users/nozimjonqozievgmail.com/Desktop/c#/week 1/lesson3/obj/Debug/net9.0/ref/lesson3.dll
+/Users/nozimjonqozievgmail.com/Desktop/c#/week 1/lesson3/obj/Debug/net9.0/lesson3.sourcelink.json

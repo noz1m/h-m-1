@@ -78,6 +78,22 @@
 // }
 // System.Console.WriteLine(cnt);
 
+//task7
+// int n = int.Parse(System.Console.ReadLine());
+// int[] arr = new int[n];
+// for (int i = 0; i < n; i++){
+//     arr[i] = int.Parse(System.Console.ReadLine());
+// }
+// int a = 0;
+// int b = 0;
+// for (int i = 0; i < n - 1; i++){
+//      if ((arr[i] > 0 && arr[i + 1] > 0) || (arr[i] < 0 && arr[i + 1] < 0)) {
+//             a = arr[i];
+//             b = arr[i + 1];
+//         }
+// }
+// System.Console.WriteLine(a + " " + b);
+
 //task 8
 // int n = int.Parse(System.Console.ReadLine());
 // int[] arr = new int[n];
@@ -88,6 +104,21 @@
 //     if (arr[i] % 2 != 0)
 //     System.Console.WriteLine(i + " ");
 // }
+
+//task9
+// int n = int.Parse(Console.ReadLine());
+// int[] arr = new int[n];
+// for (int i = 0; i < n; i++) {
+//     arr[i] = int.Parse(Console.ReadLine()); 
+// }
+// int a = int.Parse(Console.ReadLine());
+// int b = int.Parse(Console.ReadLine());
+// for (int i = a; i <= b; i++) {
+//     if (arr[i] % 2 != 0) { 
+//         Console.Write(arr[i] + " ");
+//     }
+// }
+
 //task10
 // int n = int.Parse(System.Console.ReadLine());
 // int[] arr = new int[n];
