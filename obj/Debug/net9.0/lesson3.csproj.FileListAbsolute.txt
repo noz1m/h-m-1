@@ -1,0 +1,14 @@
+/Users/nozimjonqozievgmail.com/Desktop/c#/week 1/lesson3/obj/Debug/net9.0/lesson3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nozimjonqozievgmail.com/Desktop/c#/week 1/lesson3/obj/Debug/net9.0/lesson3.AssemblyInfoInputs.cache
+/Users/nozimjonqozievgmail.com/Desktop/c#/week 1/lesson3/obj/Debug/net9.0/lesson3.AssemblyInfo.cs
+/Users/nozimjonqozievgmail.com/Desktop/c#/week 1/lesson3/obj/Debug/net9.0/lesson3.csproj.CoreCompileInputs.cache
+/Users/nozimjonqozievgmail.com/Desktop/c#/week 1/lesson3/bin/Debug/net9.0/lesson3
+/Users/nozimjonqozievgmail.com/Desktop/c#/week 1/lesson3/bin/Debug/net9.0/lesson3.deps.json
+/Users/nozimjonqozievgmail.com/Desktop/c#/week 1/lesson3/bin/Debug/net9.0/lesson3.runtimeconfig.json
+/Users/nozimjonqozievgmail.com/Desktop/c#/week 1/lesson3/bin/Debug/net9.0/lesson3.dll
+/Users/nozimjonqozievgmail.com/Desktop/c#/week 1/lesson3/bin/Debug/net9.0/lesson3.pdb
+/Users/nozimjonqozievgmail.com/Desktop/c#/week 1/lesson3/obj/Debug/net9.0/lesson3.dll
+/Users/nozimjonqozievgmail.com/Desktop/c#/week 1/lesson3/obj/Debug/net9.0/refint/lesson3.dll
+/Users/nozimjonqozievgmail.com/Desktop/c#/week 1/lesson3/obj/Debug/net9.0/lesson3.pdb
+/Users/nozimjonqozievgmail.com/Desktop/c#/week 1/lesson3/obj/Debug/net9.0/lesson3.genruntimeconfig.cache
+/Users/nozimjonqozievgmail.com/Desktop/c#/week 1/lesson3/obj/Debug/net9.0/ref/lesson3.dll
